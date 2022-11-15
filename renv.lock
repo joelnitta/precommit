@@ -271,10 +271,10 @@
     },
     "lintr": {
       "Package": "lintr",
-      "Version": "3.0.1",
+      "Version": "3.0.2",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "41ca4b419351698a49c3a74f0281ffbd",
+      "Repository": "CRAN",
+      "Hash": "b21ebd652d940f099915221f3328ab7b",
       "Requirements": [
         "backports",
         "codetools",
